@@ -4,11 +4,12 @@
 
 pkgname=exodia-cursors
 pkgver=1.0
-pkgrel=3
+pkgrel=4
 pkgdesc="Cursors For Exodia OS"
 arch=('any')
 url="https://github.com/Exodia-OS/exodia-cursors"
 license=('GPL3')
+groups=("exodia-artworks")
 
 prepare() {
 
